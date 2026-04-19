@@ -17,7 +17,7 @@ setup(
     description="A generalist SDK for Reinforcement Learning with Stable-Baselines3 and Pygame",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/stablegym-rl",
+    url="https://github.com/guilermoos/stablegym-rl",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
